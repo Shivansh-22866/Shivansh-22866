@@ -38,9 +38,24 @@
 <div align="center">
   <h2>✨ My Contributions ✨</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shivansh-22866/Shivansh-22866/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shivansh-22866/Shivansh-22866/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-22866)](https://github.com/anuraghazra/github-readme-stats)
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
