@@ -14,17 +14,33 @@
 
  </div>
 
-<!--
-**Shivansh-22866/Shivansh-22866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div align="center"> 
+  <a href="mailto:shivanshp0418@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/shivansh-pandey-5a6319282" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+ <hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscodium,vite,vercel,ts,tailwind,supabase,sass,react,postgres,nodejs" />
+    <img src="https://skillicons.dev/icons?i=express,nextjs,mongodb,materialui,dart,flutter,firebase,html,css,github,git,c,cpp,linux" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>✨ My Contributions ✨</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shivansh-22866/Shivansh-22866/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
