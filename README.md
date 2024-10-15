@@ -51,7 +51,12 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Shivansh-22866&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-22866&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
 </div>
+
+<br/><br/>
+
+[![An image of @shivansh22866's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivansh22866)](https://holopin.io/@shivansh22866)
 
 <br/><br/>
 
