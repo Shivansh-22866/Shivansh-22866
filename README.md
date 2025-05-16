@@ -6,9 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Flutter with ML**
- 
- 🌱 I’m currently learning **Redis, Kotlin, TFLite**
+ 🔭 Exploring the interesting world of development
 
 💬 Ask me about **React, NextJS, Flutter, MongoDB... or anything [here](https://github.com/Shivansh-22866/Shivansh-22866/issues)**
 
