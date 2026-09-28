@@ -107,6 +107,7 @@ Experience in building Agentic AI workflows with Codex integrations, with an int
 - Top 10 Finalist in Hack2Future, IIIT Dharwad (Oct 2024)
 - Top 10 Finalist in I-Solve Police Hackathon, NMIT Bangalore (Oct 2024)
 - SIH'23 Finalist
+- Research Publication: Co-authored "Fed-Audit-GAN: A Generative adversarial Auditing Framework for Fair-Federated Learning" accepted for presentation/publication at BDA 2026, an international conference on Big Data Analytics and Artificial Intelligence.
 
 ## 📊 GitHub Stats
 
